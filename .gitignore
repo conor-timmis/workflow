@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+
+# Logs & coverage
+*.log
+logs/
+coverage/
+.nyc_output/
+
+# Editor & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Obsidian (local plugin/state — wiki content is tracked)
+second-brain/.obsidian/workspace.json
+second-brain/.obsidian/workspace-mobile.json
+second-brain/.obsidian/plugins/
+second-brain/.trash/
+
+# Agent memory — track structure, optional: ignore sensitive entries
+# .agent-memory/
