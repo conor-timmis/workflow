@@ -1,0 +1,33 @@
+{
+  "name": "workflow",
+  "version": "0.1.0",
+  "description": "Default repo setup: AGENT.md, second brain, workflow docs, and bootstrap prompts",
+  "type": "module",
+  "bin": {
+    "workflow-init": "bin/init.mjs"
+  },
+  "files": [
+    "AGENT.md",
+    "bin",
+    "documentation",
+    "second-brain",
+    "templates"
+  ],
+  "scripts": {
+    "init": "node bin/init.mjs",
+    "dry-run": "node bin/init.mjs . --dry-run"
+  },
+  "keywords": [
+    "workflow",
+    "agent",
+    "second-brain",
+    "template",
+    "cursor",
+    "claude"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conor-timmis/workflow.git"
+  }
+}
