@@ -79,15 +79,6 @@ See [second-brain/README.md](./second-brain/README.md) for setup.
 - [documentation/workflows/agent-roles.md](./documentation/workflows/agent-roles.md) — orchestrator and specialist roles
 - [documentation/prompts/](./documentation/prompts/) — ready-to-use prompts
 
-## Sources consolidated here
-
-This template draws from:
-
-- **agent-starter-kit** — Karpathy behavioral guidelines + `.agent-memory/`
-- **coding-practices** — coding standards for humans and agents
-- **team-buddies (toyfront)** — Obsidian second brain pattern
-- **Cursor common rules** — development workflow, git, security, testing
-
 ## Developing this package
 
 ```bash
