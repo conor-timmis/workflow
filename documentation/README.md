@@ -2,6 +2,13 @@
 
 Workflow specs and AI prompts for this project.
 
+## Project docs (templates)
+
+| Doc | Purpose |
+|-----|---------|
+| [ARCHITECTURE.md](./ARCHITECTURE.md) | System design scaffold — customize after init |
+| [adr/0000-template.md](./adr/0000-template.md) | ADR template — copy per decision |
+
 ## Workflows
 
 | Doc | Purpose |

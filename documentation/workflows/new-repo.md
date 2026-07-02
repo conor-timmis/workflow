@@ -39,8 +39,8 @@ npx --yes git+https://github.com/conor-timmis/workflow.git init ./your-new-repo 
 
 ## 5. Documentation
 
-- [ ] Add `documentation/ARCHITECTURE.md` when structure is known
-- [ ] Add ADRs in `documentation/adr/` for non-obvious decisions
+- [ ] Customize `documentation/ARCHITECTURE.md` (template included)
+- [ ] Copy `documentation/adr/0000-template.md` for non-obvious decisions
 - [ ] Run **sync project docs** → **ingest all** after first docs land
 
 ## 6. Environment and secrets
